@@ -1,0 +1,14 @@
+.grid-images{
+    cursor: pointer;
+}
+.footersection{
+    height: 100px;
+    width: 100%;
+    background-color: darkslateblue;
+}
+.copyrightsymbol{
+    text-align: center;
+    font-family: serif;
+    font-weight: bold;
+    padding-top: 3%;
+}
